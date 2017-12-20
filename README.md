@@ -1,6 +1,10 @@
-# dockerapp
-Project source code for James Lee's Docker course.
+# Simple Key-Value load-save service
+http://159.203.171.25:5000
 
-Check out our latest DevOps PDF book.
+[![CircleCI](https://circleci.com/gh/khashf/dockerapp/tree/master.svg?style=svg)](https://circleci.com/gh/khashf/dockerapp/tree/master) [![CircleCI](https://circleci.com/gh/khashf/dockerapp/tree/develop.svg?style=svg)](https://circleci.com/gh/khashf/dockerapp/tree/develop)
 
-https://www.level-up.one/devops-pdf-book/
+* Written in Python 
+* Uses Redis for caching
+* Containerized with Docker
+* Continuous Integration with Circle CI
+
